@@ -1,12 +1,12 @@
 ★ Meta Ads Performance Dashboard
 
-### Facebook & Instagram Advertising Analytics using Power BI
+Facebook & Instagram Advertising Analytics using Power BI
 
 An interactive **Power BI dashboard** designed to analyze and monitor the performance of **Facebook and Instagram advertising campaigns**. The project focuses on transforming advertising data into actionable business insights through KPIs, interactive filters, and visual analytics.
 
 ---
 
-## ★ Business Problem
+★ Business Problem
 
 Digital advertising teams generate large amounts of campaign data across platforms such as Facebook and Instagram. However, raw campaign data alone does not clearly show which campaigns, audiences, platforms, or advertising activities are contributing to better performance.
 
@@ -22,11 +22,11 @@ The objective of this project is to build an interactive dashboard that helps ma
 
 ---
 
-## ★ Project Objective
+★ Project Objective
 
 The main objective is to convert advertising campaign data into a **clear and interactive business intelligence dashboard** that enables users to quickly identify performance trends and opportunities for optimization.
 
-### ★ Key questions addressed
+ ★ Key questions addressed
 
 1. How are Facebook and Instagram campaigns performing?
 2. Which platform generates better campaign performance?
@@ -38,7 +38,7 @@ The main objective is to convert advertising campaign data into a **clear and in
 
 ---
 
-## ★  Key KPIs
+★  Key KPIs
 
 The dashboard provides an overview of important advertising performance metrics such as:
 
@@ -55,30 +55,30 @@ The dashboard provides an overview of important advertising performance metrics 
 
 ---
 
-## ★ Dashboard Features
+ ★ Dashboard Features
 
-### 1. Executive KPI Overview
+1. Executive KPI Overview
 
 Provides a quick snapshot of overall advertising performance through KPI cards.
 
-### 2. Platform Comparison
+ 2. Platform Comparison
 
 Allows users to compare advertising performance between:
 
 * Facebook
 * Instagram
 
-### 3. Campaign Performance Analysis
+ 3. Campaign Performance Analysis
 
 Provides campaign-level analysis to identify high-performing and low-performing campaigns.
 
-### 4. Interactive Filtering
+ 4. Interactive Filtering
 
 Users can explore the dashboard using interactive slicers and filters.
 
-★ 5. Performance Visualization
+ 5. Performance Visualization
 
-Visualizations help identify:
+★ Visualizations help identify:
 
 * Performance trends
 * Campaign differences
